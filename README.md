@@ -1,6 +1,6 @@
 <div align="center">
 
-# Betting games with yield generation for LPs, powered by Chainlink
+# Betting games with yield generation for LPs - powered by Chainlink
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
